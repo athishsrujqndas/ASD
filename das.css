@@ -1,0 +1,55 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+}
+.h{
+    font-weight: bold;
+    background-color: brown;
+    height: 8rem;
+    width: 96rem;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+.h img{
+width:20rem;
+height: 6rem;
+float: left;
+}
+.m{
+    display: flex;
+    height: 37rem;
+    width: 96rem;
+    
+    
+}
+.l{
+    flex: .5;
+    background-color: #ffdd00;
+    padding: 30px 80px;
+    line-height: 2rem;
+
+
+}
+.c{
+    flex: 2;
+    background-color: rgba(220, 214, 173, 0.989);
+    padding: 30px 60px;
+    font-size: 1.7rem;
+}
+
+.r{
+    flex: .75;
+    background-color: pink;
+    padding: 30px 60px;
+    line-height: 2rem;
+   
+}
+.f{
+  background-color: aqua; 
+  width: 96rem;
+  height:1.5rem; 
+}
+
+
