@@ -1,5 +1,5 @@
 # CRUD_Application_Node
-to first install express modules using command
+first install express modules using command
 -------
 npm install express
 -------
